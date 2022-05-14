@@ -1,0 +1,12 @@
+package logicadeProgramacao;
+
+public class logica {
+	public static void main(String[] args) {
+		int numeroXs = 123;
+		
+		
+		
+		
+		System.out.println("Olá!");
+	}
+}

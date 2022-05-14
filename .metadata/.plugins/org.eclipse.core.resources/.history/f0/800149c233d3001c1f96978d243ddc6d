@@ -1,0 +1,8 @@
+package monitorFlu;
+
+public class MonitorFluxo {
+	public static void main(String[] args) {
+		
+	}
+
+}

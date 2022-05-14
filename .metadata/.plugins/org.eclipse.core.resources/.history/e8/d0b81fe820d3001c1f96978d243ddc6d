@@ -1,0 +1,9 @@
+package logicadeProgramacao;
+
+public class logica {
+	public static void main(String[] args) {
+		short idade = 79;
+		
+		System.out.println("A sua idade é:" + idade + ". Você ainda está muito novo....");
+	}
+}

@@ -1,0 +1,13 @@
+package logicadeProgramacao;
+ 
+public class logica {
+	public static void main(String[] args) {
+		
+		String casa = "Da mamãe Joana";
+		int numero = 987;
+		double = 86579.458;
+
+		
+		
+	}
+}
