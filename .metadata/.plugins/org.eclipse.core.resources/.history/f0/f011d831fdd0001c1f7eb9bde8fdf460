@@ -1,9 +1,0 @@
-package logicadeProgramacao;
-
-public class logica {
-	public static void main(String[] args) {
-		int idade = 18;
-		
-		System.out.println("é: %i", idade);
-	}
-}
